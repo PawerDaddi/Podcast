@@ -68,3 +68,32 @@ footer{
     text-align: left;
 }
 
+.menu li a {
+
+    transition: all .3s ease;
+    color: #0c0c0c;
+}
+
+.menu a:hover {
+
+    color:rgb(199, 139, 82);
+}
+
+.link{
+
+    text-align: center;
+    position: relative;
+    right: 15%;
+
+}
+
+.link li a {
+
+    transition: all .3s ease;
+    color: #000000;
+}
+
+.link a:hover {
+
+    color:rgb(199, 139, 82);
+}
